@@ -1,0 +1,5 @@
+Ejecutar:
+
+
+# Ruta por defecto ./data/ai4i2020.csv y salidas en ./outputs
+python main.py --csv ./data/ai4i2020.csv --outdir ./outputs
